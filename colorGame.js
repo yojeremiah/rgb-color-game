@@ -127,7 +127,7 @@ function setupSquares() {
             }
             else{
                 //this.style.backgroundColor = "#232323";
-                this.style.backgroundColor = " #F1EFE2";
+                this.style.backgroundColor = "#FFEBCD";
                 messageDisplay.textContent = "Try Again!";
             }
         });
