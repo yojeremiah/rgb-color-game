@@ -83,8 +83,8 @@ function reset() {
         }
     }
     // reset h1 background color to original 'steelblue'
-    // h1.style.backgroundColor = "steelblue";
-    h1.style.backgroundColor = "#191970";
+    h1.style.backgroundColor = "steelblue";
+    // h1.style.backgroundColor = "#191970";
     // change resetBtn text back to 'New Colors'
     resetButton.textContent = "New Colors";
     // remove display message for new game
@@ -126,8 +126,8 @@ function setupSquares() {
                 resetButton.textContent = "Play Again?";
             }
             else{
-                // this.style.backgroundColor = "#232323";
-                this.style.backgroundColor = "#FFEBCD";
+                //this.style.backgroundColor = "#232323";
+                this.style.backgroundColor = " #F1EFE2";
                 messageDisplay.textContent = "Try Again!";
             }
         });

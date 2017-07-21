@@ -1,5 +1,6 @@
 body {
-    background-color: #FFEBCD;
+    /* background-color: #FFEBCD; */
+    background-color:  #F1EFE2;
     /* background-color: #232323; */
     margin: 0;
     font-family: 'Montserrat', sans-serif;
@@ -8,8 +9,8 @@ body {
 h1 {
     color: white;
     text-align: center;
-    /* background: steelblue; */
-    background: #191970;
+    background: steelblue; 
+    /* background: #191970; */
     margin: 0;
     font-weight: normal;
     text-transform: uppercase;
@@ -23,8 +24,8 @@ button {
     text-transform: uppercase;
     height: 100%;
     font-weight: 700;
-    /* color: steelblue; */
-    color: #191970;
+    color: steelblue; 
+    /* color: #191970; */
     letter-spacing: 1px;
     font-size: inherit;
     transition: all .25s;
@@ -59,8 +60,8 @@ button {
 
 .selected {
     color: white;
-    /* background: steelblue; */
-    background: #191970;
+    background: steelblue; 
+    /* background: #191970; */
 }
 
 #colorDisplay {
@@ -75,6 +76,6 @@ button {
 
 button:hover {
     color: white;
-    /* background: steelblue; */
-    background: #191970;
+    background: steelblue; 
+    /* background: #191970; */
 }
